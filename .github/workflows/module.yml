@@ -101,3 +101,4 @@ jobs:
           path: |
             "module/build/outputs/mapping/release"
             "ui/build/outputs/mapping/release"
+
